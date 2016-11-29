@@ -7,6 +7,18 @@ body, html {
 	font-family: 'Cabin', sans-serif;
 }
 
+#spoon {
+	padding-top: 20px;
+}
+
+#travelwords {
+	padding-top: 20px;
+}
+
+#berkeley {
+	padding-top: 20px;
+}
+
 #icon1 {
 	display: inline-block;
 	position: absolute;
@@ -113,7 +125,7 @@ body, html {
 #about-text {
 	font-family: 'Lobster', cursive;
 	font-size: 72px;
-	padding-top: 20px;
+	padding-top: 40px;
 	padding-bottom: 20px;
 	cursor: default;
 }
