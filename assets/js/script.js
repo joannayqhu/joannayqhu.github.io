@@ -26,7 +26,7 @@ $(".page-wrapper").click(function(){
 })
 
 $(".photo").hover(function(){
-  $(".photo").css(opacity: 1.0);
+  $(".photo").css(opacity:1.0);
 })
 
 });
