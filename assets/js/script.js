@@ -25,7 +25,7 @@ $(".page-wrapper").click(function(){
   }
 })
 
-if $(".photo").hover(function(){
+$(".photo").hover(function(){
   $(".photo").css(opacity: 1.0);
 })
 
