@@ -25,8 +25,150 @@ $(".page-wrapper").click(function(){
   }
 })
 
-$(".photo").hover(function(){
-  $(".photo").css(opacity:1.0);
+$("#one").hover(function(){
+  $("#one").css("opacity","1");
+})
+$("#one").mouseout(function(){
+  $("#one").css("opacity","0.75");
+})
+$("#two").hover(function(){
+  $("#two").css("opacity","1");
+})
+$("#two").mouseout(function(){
+  $("#two").css("opacity","0.75");
+})
+$("#three").hover(function(){
+  $("#three").css("opacity","1");
+})
+$("#three").mouseout(function(){
+  $("#three").css("opacity","0.75");
+})
+$("#four").hover(function(){
+  $("#four").css("opacity","1");
+})
+$("#four").mouseout(function(){
+  $("#four").css("opacity","0.75");
+})
+$("#five").hover(function(){
+  $("#five").css("opacity","1");
+})
+$("#five").mouseout(function(){
+  $("#five").css("opacity","0.75");
+})
+$("#six").hover(function(){
+  $("#six").css("opacity","1");
+})
+$("#six").mouseout(function(){
+  $("#six").css("opacity","0.75");
+})
+$("#seven").hover(function(){
+  $("#seven").css("opacity","1");
+})
+$("#seven").mouseout(function(){
+  $("#seven").css("opacity","0.75");
+})
+$("#eight").hover(function(){
+  $("#eight").css("opacity","1");
+})
+$("#eight").mouseout(function(){
+  $("#eight").css("opacity","0.75");
+})
+$("#nine").hover(function(){
+  $("#nine").css("opacity","1");
+})
+$("#nine").mouseout(function(){
+  $("#nine").css("opacity","0.75");
+})
+$("#ten").hover(function(){
+  $("#ten").css("opacity","1");
+})
+$("#ten").mouseout(function(){
+  $("#ten").css("opacity","0.75");
+})
+$("#eleven").hover(function(){
+  $("#eleven").css("opacity","1");
+})
+$("#eleven").mouseout(function(){
+  $("#eleven").css("opacity","0.75");
+})
+$("#twelve").hover(function(){
+  $("#twelve").css("opacity","1");
+})
+$("#twelve").mouseout(function(){
+  $("#twelve").css("opacity","0.75");
+})
+
+$("#yi").hover(function(){
+  $("#yi").css("opacity","1");
+})
+$("#yi").mouseout(function(){
+  $("#yi").css("opacity","0.75");
+})
+$("#er").hover(function(){
+  $("#er").css("opacity","1");
+})
+$("#er").mouseout(function(){
+  $("#er").css("opacity","0.75");
+})
+$("#san").hover(function(){
+  $("#san").css("opacity","1");
+})
+$("#san").mouseout(function(){
+  $("#san").css("opacity","0.75");
+})
+$("#si").hover(function(){
+  $("#si").css("opacity","1");
+})
+$("#si").mouseout(function(){
+  $("#si").css("opacity","0.75");
+})
+$("#wu").hover(function(){
+  $("#wu").css("opacity","1");
+})
+$("#wu").mouseout(function(){
+  $("#wu").css("opacity","0.75");
+})
+$("#liu").hover(function(){
+  $("#liu").css("opacity","1");
+})
+$("#liu").mouseout(function(){
+  $("#liu").css("opacity","0.75");
+})
+$("#qi").hover(function(){
+  $("#qi").css("opacity","1");
+})
+$("#qi").mouseout(function(){
+  $("#qi").css("opacity","0.75");
+})
+$("#ba").hover(function(){
+  $("#ba").css("opacity","1");
+})
+$("#ba").mouseout(function(){
+  $("#ba").css("opacity","0.75");
+})
+$("#jiu").hover(function(){
+  $("#jiu").css("opacity","1");
+})
+$("#jiu").mouseout(function(){
+  $("#jiu").css("opacity","0.75");
+})
+$("#shi").hover(function(){
+  $("#shi").css("opacity","1");
+})
+$("#shi").mouseout(function(){
+  $("#shi").css("opacity","0.75");
+})
+$("#shiyi").hover(function(){
+  $("#shiyi").css("opacity","1");
+})
+$("#shiyi").mouseout(function(){
+  $("#shiyi").css("opacity","0.75");
+})
+$("#shier").hover(function(){
+  $("#shier").css("opacity","1");
+})
+$("#shier").mouseout(function(){
+  $("#shier").css("opacity","0.75");
 })
 
 });
