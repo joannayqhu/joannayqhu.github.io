@@ -103,6 +103,23 @@ body, html {
 
 .sidebar-item li {
 	cursor: pointer;
+	color: white;
+	font-family: 'Cabin', sans-serif;
+}
+
+.sidebar-item a:link {
+	color: white;
+	text-decoration: none;
+}
+
+.sidebar-item a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+.sidebar-item a:hover {
+	color: white;
+	text-decoration: none;
 }
 
 #sidebar-button {
