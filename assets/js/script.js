@@ -157,4 +157,136 @@ $("#twelve").mouseout (
   }
 )
 
+$("#yi").hover (
+  function(){
+    $("#image-caption13").delay("slow").css("opacity","1");
+  }
+)
+$("#yi").mouseout (
+  function(){
+    $("#image-caption13").delay("slow").css("opacity","0");
+  }
+)
+
+$("#er").hover (
+  function(){
+    $("#image-caption14").delay("slow").css("opacity","1");
+  }
+)
+$("#er").mouseout (
+  function(){
+    $("#image-caption14").delay("slow").css("opacity","0");
+  }
+)
+
+$("#san").hover (
+  function(){
+    $("#image-caption15").delay("slow").css("opacity","1");
+  }
+)
+$("#san").mouseout (
+  function(){
+    $("#image-caption15").delay("slow").css("opacity","0");
+  }
+)
+
+$("#si").hover (
+  function(){
+    $("#image-caption16").delay("slow").css("opacity","1");
+  }
+)
+$("#si").mouseout (
+  function(){
+    $("#image-caption16").delay("slow").css("opacity","0");
+  }
+)
+
+$("#wu").hover (
+  function(){
+    $("#image-caption17").delay("slow").css("opacity","1");
+  }
+)
+$("#wu").mouseout (
+  function(){
+    $("#image-caption17").delay("slow").css("opacity","0");
+  }
+)
+
+$("#liu").hover (
+  function(){
+    $("#image-caption18").delay("slow").css("opacity","1");
+  }
+)
+$("#liu").mouseout (
+  function(){
+    $("#image-caption18").delay("slow").css("opacity","0");
+  }
+)
+
+$("#qi").hover (
+  function(){
+    $("#image-caption19").delay("slow").css("opacity","1");
+  }
+)
+$("#qi").mouseout (
+  function(){
+    $("#image-caption19").delay("slow").css("opacity","0");
+  }
+)
+
+$("#ba").hover (
+  function(){
+    $("#image-caption20").delay("slow").css("opacity","1");
+  }
+)
+$("#ba").mouseout (
+  function(){
+    $("#image-caption20").delay("slow").css("opacity","0");
+  }
+)
+
+$("#jiu").hover (
+  function(){
+    $("#image-caption21").delay("slow").css("opacity","1");
+  }
+)
+$("#jiu").mouseout (
+  function(){
+    $("#image-caption21").delay("slow").css("opacity","0");
+  }
+)
+
+$("#shi").hover (
+  function(){
+    $("#image-caption22").delay("slow").css("opacity","1");
+  }
+)
+$("#shi").mouseout (
+  function(){
+    $("#image-caption22").delay("slow").css("opacity","0");
+  }
+)
+
+$("#shiyi").hover (
+  function(){
+    $("#image-caption23").delay("slow").css("opacity","1");
+  }
+)
+$("#shiyi").mouseout (
+  function(){
+    $("#image-caption23").delay("slow").css("opacity","0");
+  }
+)
+
+$("#shier").hover (
+  function(){
+    $("#image-caption24").delay("slow").css("opacity","1");
+  }
+)
+$("#shier").mouseout (
+  function(){
+    $("#image-caption24").delay("slow").css("opacity","0");
+  }
+)
+
 });

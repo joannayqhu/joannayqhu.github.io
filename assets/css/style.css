@@ -7,14 +7,14 @@ body, html {
 	font-family: 'Cabin', sans-serif;
 }
 
-#image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12 {
+#image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12, #image-caption13, #image-caption14, #image-caption15, #image-caption16, #image-caption17, #image-caption18, #image-caption19, #image-caption20, #image-caption21, #image-caption22, #image-caption23, #image-caption24 {
 	position: absolute;
 	top: 250px;
 	left: 20px;
 	right: 20px;
 	color: black;
 	font-weight: lighter;
-	font-size: 12px;
+	font-size: 11px;
 	opacity: 0;
 	cursor: default;
 }
