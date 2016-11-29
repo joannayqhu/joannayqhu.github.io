@@ -7,6 +7,18 @@ body, html {
 	font-family: 'Cabin', sans-serif;
 }
 
+#image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12 {
+	position: absolute;
+	top: 250px;
+	left: 20px;
+	right: 20px;
+	color: black;
+	font-weight: lighter;
+	font-size: 12px;
+	opacity: 0;
+	cursor: default;
+}
+
 #spoon {
 	padding-top: 20px;
 	font-size: 20px;
@@ -107,6 +119,11 @@ body, html {
 	padding-bottom: 30px;
 	margin-top: 30px;
 	transition: 0.3s;
+	opacity: 0.8;
+}
+
+.photo:hover {
+	opacity: 1.0;
 }
 
 #food-text{
