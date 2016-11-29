@@ -1,7 +1,8 @@
   <!-- Home: social media icons -->
   <!-- Food/Travel: hover to show text (date, location, camera) -->
   <!-- About: 3 descriptions -->
-  <!-- *General: compatibility with different sized screens - use percentages, position them using relative/absolute, github -->
+  <!-- *Sidebar: slower jump to link -->
+  <!-- *General: compatibility with different sized screens - use percentages -->
 <html>
     <head>
         <title>JH Photography</title>
@@ -36,8 +37,19 @@
         <div class = "page-wrapper">
             <section class = "section" id = "home">
               <div id="header">
-                  <img src="assets/img/background.jpg", width=100%, height=800px></img>
+                  <div id="background"><img src="assets/img/background.jpg", width=100%, height=800px></img></div>
                   <div id="title">JH Photography</div>
+                  <div id="social">
+                    <div id="icon1">
+                      <a href = "https://www.facebook.com/joannawho"><img src = "assets/img/social1.png", width=45px, height=45px></a>
+                    </div>
+                    <div id="icon2">
+                      <a href = "https://www.instagram.com/joannawhoo"><img src = "assets/img/social2.png", width=45px, height=45px></a>
+                    </div>
+                    <div id="icon3">
+                      <a href = "https://www.linkedin.com/in/joanna-hu-414868128"><img src = "assets/img/social3.png" width=45px, height=45px></a>
+                    </div>
+                  </div>
               </div>
             </section>
             <section class = "section" id = "food">
@@ -124,7 +136,7 @@
               </section>
               <section class = "section" id = "about">
                 <div class = "text" id = "about-text"> About </div>
-                <div id = "album">
+                <div id = "album2">
                   <div class = "photo">
                     <img src = "assets/img/about1.png", width=250px, height=250px>
                   </div>
