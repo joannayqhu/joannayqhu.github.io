@@ -234,6 +234,30 @@ $("#nineteen").mouseout (
   }
 )
 
+$("#twenty").hover (
+  function(){
+    $("#image-caption20").delay("slow").css("opacity","1");
+  }
+)
+
+$("#twenty").mouseout (
+  function(){
+    $("#image-caption20").delay("slow").css("opacity","0");
+  }
+)
+
+$("#twentyone").hover (
+  function(){
+    $("#image-caption21").delay("slow").css("opacity","1");
+  }
+)
+
+$("#twentyone").mouseout (
+  function(){
+    $("#image-caption21").delay("slow").css("opacity","0");
+  }
+)
+
 $("#yi").hover (
   function(){
     $("#image-caption101").delay("slow").css("opacity","1");
