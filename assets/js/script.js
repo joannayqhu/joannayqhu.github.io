@@ -258,6 +258,30 @@ $("#twentyone").mouseout (
   }
 )
 
+$("#twentytwo").hover (
+  function(){
+    $("#image-caption22").delay("slow").css("opacity","1");
+  }
+)
+
+$("#twentytwo").mouseout (
+  function(){
+    $("#image-caption22").delay("slow").css("opacity","0");
+  }
+)
+
+$("#twentythree").hover (
+  function(){
+    $("#image-caption23").delay("slow").css("opacity","1");
+  }
+)
+
+$("#twentythree").mouseout (
+  function(){
+    $("#image-caption23").delay("slow").css("opacity","0");
+  }
+)
+
 $("#yi").hover (
   function(){
     $("#image-caption101").delay("slow").css("opacity","1");
