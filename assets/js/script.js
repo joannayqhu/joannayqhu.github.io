@@ -306,6 +306,18 @@ $("#twentyfive").mouseout (
   }
 )
 
+$("#twentysix").hover (
+  function(){
+    $("#image-caption26").delay("slow").css("opacity","1");
+  }
+)
+
+$("#twentysix").mouseout (
+  function(){
+    $("#image-caption26").delay("slow").css("opacity","0");
+  }
+)
+
 $("#yi").hover (
   function(){
     $("#image-caption101").delay("slow").css("opacity","1");
