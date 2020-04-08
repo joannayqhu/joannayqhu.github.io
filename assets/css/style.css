@@ -38,7 +38,7 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	/* top: 450px; */
-	top: 35%;
+	top: 50%;
 	width: 80%;
 	z-index: 20;
 }
@@ -47,7 +47,7 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	/* top: 450px; */
-	top: 35%;
+	top: 50%;
 	width: 100%;
 	z-index: 20;
 }
@@ -56,7 +56,7 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	/* top: 450px; */
-	top: 35%;
+	top: 50%;
 	width: 120%;
 	z-index: 20;
 }
