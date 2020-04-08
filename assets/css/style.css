@@ -76,6 +76,16 @@ body, html {
 	display: inline-block;
 } */
 
+#social {
+	display: table;
+	width: 100%;
+}
+
+#social span {
+	display: table-cell;
+	text-align: center;
+}
+
 #background {
 	z-index: -10;
 }
