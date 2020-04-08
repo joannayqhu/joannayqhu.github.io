@@ -71,7 +71,8 @@ body, html {
 	color: white;
 	font-size: 72px;
 	font-family: 'Lobster', cursive;
-	cursor: default;
+	cursor: default
+	white-space:nowrap;
 }
 
 .section {
