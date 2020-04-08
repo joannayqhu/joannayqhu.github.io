@@ -55,7 +55,7 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	top: 450px;
-	left: 50%;
+	left: 60%;
 	z-index: 20;
 }
 
@@ -66,8 +66,7 @@ body, html {
 #title {
 	position: absolute;
 	top: 350px;
-	left: 100px;
-	right: 100px;
+	left: 50%;
 	color: white;
 	font-size: 72px;
 	font-family: 'Lobster', cursive;
