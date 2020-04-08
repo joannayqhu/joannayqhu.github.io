@@ -98,6 +98,7 @@ body, html {
 
 #food {
 	background-color: #fff;
+	height: calc((100%-800px-600px)/2);
 }
 
 #food-text{
@@ -111,6 +112,7 @@ body, html {
 #travel{
 	background-color: #f7f5f2;
 	color: black;
+	height: calc((100%-800px-600px)/2);
 }
 
 #travel-text{
