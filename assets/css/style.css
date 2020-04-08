@@ -38,14 +38,14 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	top: 450px;
-	left: 37%;
+	left: 40%;
 	z-index: 20;
 }
 
 #icon2 {
 	display: inline-block;
 	position: absolute;
-	top: 300px;
+	top: 450px;
 	left: 50%;
 	z-index: 20;
 }
@@ -54,7 +54,7 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	top: 450px;
-	left: 57%;
+	left: 67%;
 	z-index: 20;
 }
 
