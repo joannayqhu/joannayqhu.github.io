@@ -2,6 +2,11 @@ $(document).ready(function() {
 
 $(window).resize(function() {
     var bodyheight = $(this).height();
+    $("#home").height(bodyheight);
+}).resize()
+
+$(window).resize(function() {
+    var bodyheight = $(this).height();
     $("#food").height(bodyheight);
 }).resize()
 
