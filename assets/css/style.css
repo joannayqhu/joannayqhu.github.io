@@ -34,7 +34,7 @@ body, html {
 	font-size: 20px;
 }
 
-/* #icon1 {
+#icon1 {
 	display: block;
 	position: absolute;
 	top: 450px;
@@ -57,7 +57,7 @@ body, html {
 	top: 450px;
 	left: 50%;
 	z-index: 20;
-} */
+}
 /*
 #social{
 		width: 100%;
