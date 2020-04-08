@@ -59,7 +59,7 @@ body, html {
 	z-index: 20;
 } */
 
-#social{
+/* #social{
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
@@ -74,7 +74,7 @@ body, html {
 .stretch{
 	width: 100%;
 	display: inline-block;
-}
+} */
 
 #background {
 	z-index: -10;
