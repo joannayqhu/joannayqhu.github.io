@@ -46,7 +46,8 @@ body, html {
 	display: inline-block;
 	position: absolute;
 	top: 450px;
-	left: 45%;
+	left: auto;
+	right: auto;
 	z-index: 20;
 }
 
