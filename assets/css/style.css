@@ -7,7 +7,7 @@ body, html {
 	font-family: 'Cabin', sans-serif;
 }
 
-#image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12, #image-caption13, #image-caption14, #image-caption15, #image-caption16, #image-caption17, #image-caption18, #image-caption19, #image-caption20, #image-caption21, #image-caption22, #image-caption23, #image-caption24, #image-caption101, #image-caption102, #image-caption103, #image-caption104, #image-caption105, #image-caption106, #image-caption107, #image-caption108, #image-caption109, #image-caption110, #image-caption111, #image-caption112 {
+#image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12, #image-caption101, #image-caption102, #image-caption103, #image-caption104, #image-caption105, #image-caption106, #image-caption107, #image-caption108, #image-caption109, #image-caption110, #image-caption111, #image-caption112 {
 	position: absolute;
 	top: 270px;
 	left: 20px;
@@ -98,7 +98,6 @@ body, html {
 
 #food {
 	background-color: #fff;
-	height: 2800px;
 }
 
 #food-text{
