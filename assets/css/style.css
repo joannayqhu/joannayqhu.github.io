@@ -85,7 +85,6 @@ body, html {
 	min-width: 1200px;
 	position: relative;
 	text-align: center;
-	overflow: auto;
 }
 
 #album {
