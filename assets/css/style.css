@@ -50,6 +50,12 @@ body, html {
 	z-index: 20;
 }
 
+#icon2.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #icon3 {
 	display: inline-block;
 	position: absolute;
