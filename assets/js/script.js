@@ -1,5 +1,20 @@
 $(document).ready(function() {
 
+$(window).resize(function() {
+    var bodyheight = $(this).height();
+    $("#food").height(bodyheight);
+}).resize()
+
+$(window).resize(function() {
+    var bodyheight = $(this).height();
+    $("#travel").height(bodyheight);
+}).resize()
+
+$(window).resize(function() {
+    var bodyheight = $(this).height();
+    $("#about").height(bodyheight);
+}).resize()
+
 $("#sidebar-button").click(function(){
   if ($(".sidebar-container").hasClass("sidebar-active")) {
     $("body").removeClass("no-scroll");
@@ -154,143 +169,6 @@ $("#twelve").hover (
 $("#twelve").mouseout (
   function(){
     $("#image-caption12").delay("slow").css("opacity","0");
-  }
-)
-
-$("#thirteen").hover (
-  function(){
-    $("#image-caption13").delay("slow").css("opacity","1");
-  }
-)
-$("#thirteen").mouseout (
-  function(){
-    $("#image-caption13").delay("slow").css("opacity","0");
-  }
-)
-
-$("#fourteen").hover (
-  function(){
-    $("#image-caption14").delay("slow").css("opacity","1");
-  }
-)
-$("#fourteen").mouseout (
-  function(){
-    $("#image-caption14").delay("slow").css("opacity","0");
-  }
-)
-
-$("#fifteen").hover (
-  function(){
-    $("#image-caption15").delay("slow").css("opacity","1");
-  }
-)
-$("#fifteen").mouseout (
-  function(){
-    $("#image-caption15").delay("slow").css("opacity","0");
-  }
-)
-
-$("#sixteen").hover (
-  function(){
-    $("#image-caption16").delay("slow").css("opacity","1");
-  }
-)
-$("#sixteen").mouseout (
-  function(){
-    $("#image-caption16").delay("slow").css("opacity","0");
-  }
-)
-
-$("#seventeen").hover (
-  function(){
-    $("#image-caption17").delay("slow").css("opacity","1");
-  }
-)
-$("#seventeen").mouseout (
-  function(){
-    $("#image-caption17").delay("slow").css("opacity","0");
-  }
-)
-
-$("#eighteen").hover (
-  function(){
-    $("#image-caption18").delay("slow").css("opacity","1");
-  }
-)
-$("#eighteen").mouseout (
-  function(){
-    $("#image-caption18").delay("slow").css("opacity","0");
-  }
-)
-
-$("#nineteen").hover (
-  function(){
-    $("#image-caption19").delay("slow").css("opacity","1");
-  }
-)
-$("#nineteen").mouseout (
-  function(){
-    $("#image-caption19").delay("slow").css("opacity","0");
-  }
-)
-
-$("#twenty").hover (
-  function(){
-    $("#image-caption20").delay("slow").css("opacity","1");
-  }
-)
-
-$("#twenty").mouseout (
-  function(){
-    $("#image-caption20").delay("slow").css("opacity","0");
-  }
-)
-
-$("#twentyone").hover (
-  function(){
-    $("#image-caption21").delay("slow").css("opacity","1");
-  }
-)
-
-$("#twentyone").mouseout (
-  function(){
-    $("#image-caption21").delay("slow").css("opacity","0");
-  }
-)
-
-$("#twentytwo").hover (
-  function(){
-    $("#image-caption22").delay("slow").css("opacity","1");
-  }
-)
-
-$("#twentytwo").mouseout (
-  function(){
-    $("#image-caption22").delay("slow").css("opacity","0");
-  }
-)
-
-$("#twentythree").hover (
-  function(){
-    $("#image-caption23").delay("slow").css("opacity","1");
-  }
-)
-
-$("#twentythree").mouseout (
-  function(){
-    $("#image-caption23").delay("slow").css("opacity","0");
-  }
-)
-
-$("#twentyfour").hover (
-  function(){
-    $("#image-caption24").delay("slow").css("opacity","1");
-  }
-)
-
-$("#twentyfour").mouseout (
-  function(){
-    $("#image-caption24").delay("slow").css("opacity","0");
   }
 )
 
