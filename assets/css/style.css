@@ -70,7 +70,6 @@ body, html {
 
 #background {
 	z-index: -10;
-	object-fit: cover;
 }
 
 #title {
