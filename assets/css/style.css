@@ -45,8 +45,8 @@ body, html {
 #icon2 {
 	display: inline-block;
 	position: absolute;
-	top: 400px;
-	left: 47%;
+	top: 300px;
+	left: 50%;
 	z-index: 20;
 }
 
