@@ -131,7 +131,7 @@ body, html {
 	display: inline-block;
 	padding-left: 30px;
 	padding-right: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 30px auto;
 	margin-top: 30px;
 	transition: 0.3s;
 	opacity: 0.8;
