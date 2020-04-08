@@ -34,8 +34,8 @@ body, html {
 	font-size: 20px;
 }
 
-#icon1 {
-	display: inline-block;
+/* #icon1 {
+	display: block;
 	position: absolute;
 	top: 450px;
 	left: 30%;
@@ -43,19 +43,38 @@ body, html {
 }
 
 #icon2 {
-	display: inline-block;
+	display: block;
 	position: absolute;
 	top: 450px;
-	left: 40%;
+	margin-left: auto;
+	margin-right: auto;
 	z-index: 20;
 }
 
 #icon3 {
-	display: inline-block;
+	display: block;
 	position: absolute;
 	top: 450px;
 	left: 50%;
 	z-index: 20;
+} */
+
+#social{
+		margin-left: auto;
+		margin-right: auto;
+		text-align: justify;
+		-ms-text-justify: distribute-all-lines;
+		text-justify: distribute-all-lines;
+}
+
+#social a{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.stretch{
+	width: 100%;
+	display: inline-block;
 }
 
 #background {
