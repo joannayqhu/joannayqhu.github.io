@@ -32,6 +32,26 @@ body, html {
 	font-size: 36px;
 }
 
+#aboutme2{
+	font-size: 18px;
+}
+
+#aboutpara{
+	display: inline;
+	position: relative;
+	text-align: left;
+}
+
+#mepic {
+	opacity: 1.0;
+	display: inline;
+	position: absolute;
+	left: 10%;
+	top: 30%;
+	margin-right: 10%;
+	vertical-align: middle;
+}
+
 #icon1 {
 	display: inline;
 	position: absolute;
