@@ -82,7 +82,7 @@ body, html {
 	position: absolute;
 	top: 27%; */
 	position: fixed;
-	top: 27%;
+	top: 35%;
 	left: 10;
 	transform: translateY(-50%);
 	color: white;
