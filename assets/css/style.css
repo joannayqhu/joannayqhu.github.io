@@ -7,7 +7,17 @@ body, html {
 	min-height: 474px;
 	background-color: white;
 	font-family: 'Cabin', sans-serif;
+
 }
+
+#foodpage {
+	padding-bottom: 35%;
+}
+
+.travelpage {
+	padding-bottom: 35%;
+}
+
 
 #image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12, #image-caption101, #image-caption102, #image-caption103, #image-caption104, #image-caption105, #image-caption106, #image-caption107, #image-caption108, #image-caption109, #image-caption110, #image-caption111, #image-caption112 {
 	position: absolute;
@@ -37,36 +47,34 @@ body, html {
 }
 
 #icon1 {
-	display: inline-block;
+	display: inline;
 	position: absolute;
-	/* top: 450px; */
-	top: 40%;
-	width: 80%;
-	z-index: 22;
+	top: 43%;
+	left: 41%;
+
+
 }
 
 #icon2 {
-	display: inline-block;
+	display: inline;
 	position: absolute;
+	top: 43%;
+	left: 48.5%;
+
 	/* top: 450px; */
-	top: 40%;
-	width: 100%;
-	z-index: 21;
+
 }
 
 #icon3 {
-	display: inline-block;
+	display: inline;
 	position: absolute;
+	top: 43%;
+	left: 56%;
 	/* top: 450px; */
-	top: 40%;
-	width: 120%;
-	z-index: 20;
+
+
 }
 
-.social{
-	display: flex;
-	justify-content: space-between;
-}
 
 #background {
 	z-index: -10;
@@ -103,7 +111,8 @@ body, html {
 }
 
 #food {
-	background-color: #fff;
+	background-color:white;
+	padding-right: 15px;
 	padding-bottom: 30px;
 	margin-bottom: 30px;
 }
@@ -119,6 +128,7 @@ body, html {
 #travel{
 	/* background-color: #f7f5f2; */
 	background color: #fff;
+	padding-right: 15px;
 	color: black;
 	padding-bottom: 30px;
 	margin-bottom: 30px;
@@ -186,7 +196,8 @@ body, html {
 .sidebar-container {
 	position: fixed;
 	width: 280px;
-	height: 120%;
+	height: 100%;
+	top: 0;
 	background-color: black;
 	-webkit-transform: translateX(-280px);
 	-webkit-transition: 0.3s;
@@ -234,8 +245,8 @@ body, html {
 #sidebar-button {
 	position: fixed;
 	z-index: 100;
-	left: 15px;
-	top: 15px;
+	left: 12px;
+	top: 12px;
 	cursor: pointer;
 	-webkit-transition: all .3s;
 	-moz-transition: all .3s;
