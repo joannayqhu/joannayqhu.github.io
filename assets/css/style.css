@@ -16,6 +16,9 @@ body, html {
 	padding-bottom: 35%;
 }
 
+/* .aboutpage {
+} */
+
 #image-caption1, #image-caption2, #image-caption3, #image-caption4, #image-caption5, #image-caption6, #image-caption7, #image-caption8, #image-caption9, #image-caption10, #image-caption11, #image-caption12, #image-caption101, #image-caption102, #image-caption103, #image-caption104, #image-caption105, #image-caption106, #image-caption107, #image-caption108, #image-caption109, #image-caption110, #image-caption111, #image-caption112 {
 	position: absolute;
 	top: 270px;
@@ -47,21 +50,21 @@ body, html {
 	display: inline;
 	position: absolute;
 	top: 43%;
-	left: 43%;
+	left: 42.5%;
 }
 
 #icon2 {
 	display: inline;
 	position: absolute;
 	top: 43%;
-	left: 50.5%;
+	left: 50%;
 }
 
 #icon3 {
 	display: inline;
 	position: absolute;
 	top: 43%;
-	left: 58%;
+	left: 57.5%;
 }
 
 
