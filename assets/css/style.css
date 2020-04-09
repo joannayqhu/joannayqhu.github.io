@@ -78,6 +78,9 @@ body, html {
 }
 
 #title {
+	/* justify-content: center;
+	position: absolute;
+	top: 27%; */
 	position: fixed;
 	top: 27%;
 	left: 10;
