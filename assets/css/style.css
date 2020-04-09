@@ -31,7 +31,7 @@ body, html {
 	cursor: default;
 }
 
-#spoon {
+/* #spoon {
 	padding-top: 20px;
 	font-size: 20px;
 }
@@ -44,6 +44,14 @@ body, html {
 #berkeley {
 	padding-top: 20px;
 	font-size: 20px;
+} */
+
+#aboutme {
+	padding-top: 20px;
+}
+
+#mephoto {
+	padding-top: 20px;
 }
 
 #icon1 {
@@ -66,7 +74,6 @@ body, html {
 	top: 43%;
 	left: 57.5%;
 }
-
 
 #background {
 	z-index: -10;
@@ -148,6 +155,15 @@ body, html {
 
 .photo:hover {
 	opacity: 1.0;
+}
+
+#mephoto {
+	position: relative;
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	margin-top: 30px;
 }
 
 #food-text{
