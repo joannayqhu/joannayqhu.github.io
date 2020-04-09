@@ -32,15 +32,6 @@ body, html {
 	font-size: 48px;
 }
 
-#aboutmepic {
-	position: relative;
-	display: inline-block;
-	padding-left: 30px;
-	padding-right: 30px;
-	padding-bottom: 30px;
-	margin-top: 30px;
-}
-
 #icon1 {
 	display: inline;
 	position: absolute;
